@@ -12,8 +12,7 @@
 
 ---
 
-# 🌈 Gradient Divider
-<img src="https://github.com/kyechan99/capsule-render/blob/master/docs/images/bk3.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/gradient.gif" width="100%" />
 
 ---
 
@@ -27,8 +26,7 @@
 
 ---
 
-# 🌈 Gradient Divider
-<img src="https://github.com/kyechan99/capsule-render/blob/master/docs/images/bk3.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/gradient.gif" width="100%" />
 
 ---
 
@@ -68,9 +66,8 @@
 </p>
 
 ---
+<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/gradient.gif" width="100%" />
 
-# 🌈 Gradient Divider
-<img src="https://github.com/kyechan99/capsule-render/blob/master/docs/images/bk3.svg" width="100%" />
 
 ---
 
@@ -105,8 +102,7 @@
 
 ---
 
-# 🌈 Gradient Divider
-<img src="https://github.com/kyechan99/capsule-render/blob/master/docs/images/bk3.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/gradient.gif" width="100%" />
 
 ---
 
@@ -124,8 +120,8 @@
 
 ---
 
-# 🌈 Gradient Divider
-<img src="https://github.com/kyechan99/capsule-render/blob/master/docs/images/bk3.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/gradient.gif" width="100%" />
+
 
 ---
 
