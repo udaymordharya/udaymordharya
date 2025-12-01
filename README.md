@@ -28,7 +28,6 @@
 
 <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/gradient.gif" width="100%" />
 
----
 
 # 🧰 Tech Stack (Floating Icons)  
 
@@ -99,29 +98,6 @@
 - Java + JavaScript  
 - Patterns, arrays, logic problems  
 - Problem-solving focused  
-
----
-
-<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/gradient.gif" width="100%" />
-
----
-
-# 📈 GitHub Insights  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=udaymordharya&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=udaymordharya&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaymordharya&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=udaymordharya&label=Profile+Views&color=blue" />
-</p>
-
----
-
-<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/gradient.gif" width="100%" />
-
 
 ---
 
