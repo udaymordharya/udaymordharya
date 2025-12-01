@@ -1,4 +1,27 @@
 
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Uday%20Mordharya%20🚀&animation=fadeIn&type=waving&color=gradient&height=120" alt="Uday Mordharya Banner"/>
+</p>
+
+## 👋 Hi there — I’m Uday Mordharya
+
+- 🎓 IT Student at Vasantdada Patil College of Engineering, Mumbai  
+- 💻 Full-stack developer learning & building real-world systems (React + TypeScript + Redux on frontend; Node/Express + Sequelize, Django on backend)  
+- 🔭 Working on a real-time company-based chat & forum system, a warehouse stock-tracker MVP, and crafting my personal portfolio website  
+- 📚 Preparing thoroughly for campus placements — DSA, Java & JavaScript, logic/aptitude, UI/UX design & clean coding  
+- 🌱 Passionate about modern web / software development, clean architecture, and continuous learning
+
+---
+
+## 🧰 Tech Stack & Tools  
+<img src="https://skillicons.dev/icons?i=js,ts,java,python,c,cpp" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" />
+<img src="https://skillicons.dev/icons?i=figma" />
+<img src="https://skillicons.dev/icons?i=vercel,aws,gcp" />
+
+
 ---
 
 ## 📂 My Key Projects
