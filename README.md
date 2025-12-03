@@ -7,7 +7,7 @@
 <h2 align="center">👋 Hi, I'm Uday Mordharya — Full-Stack Developer</h2>
 
 <p align="center">
-  I build real-world, scalable systems using React, TypeScript, Django, Node.js & modern architectures.
+  I build real-world, scalable systems using React, TypeScript, Node.js & modern architectures.
 </p>
 
 ---
@@ -19,8 +19,7 @@
 # 🔥 About Me  
 - 🎓 IT Student at Vasantdada Patil College of Engineering  
 - 💻 Full-stack developer building real-world systems (Chat + Forum System, Stock Tracker)  
-- 🚀 Passion for real-time apps (Socket.IO), clean architecture & UI excellence  
-- 🐍 Django + Node.js backend enthusiast  
+- 🚀 Passion for real-time apps, clean architecture & UI excellence  
 - 🎨 UI lover — modern animations, minimal & clean interfaces  
 - 📚 Preparing for placements: DSA + Java + JavaScript + Aptitude  
 
@@ -44,7 +43,7 @@
 
 ### ⚙️ Backend  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
   <br>
   <b>Real-time Systems • REST APIs • JWT Auth • Socket.IO</b>
 </p>
@@ -77,14 +76,6 @@
 - Typing indicators, unread-badges  
 - Read receipts, file uploads  
 - Stack → React + TypeScript + Redux + Node.js + Sequelize  
-
----
-
-### 🔹 **Django Warehouse Stock Tracker**
-- Stock master & detail tables  
-- Clean schema architecture  
-- Deployment ready for Render / PythonAnywhere  
-
 ---
 
 ### 🔹 **Portfolio Website**
