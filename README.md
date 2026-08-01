@@ -12,6 +12,3 @@ Hello i'am Uday Mordharya trying to build carrer in tech while exploring differe
 
 
 
-
-
-7
